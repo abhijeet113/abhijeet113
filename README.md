@@ -10,8 +10,8 @@
 - 💬 Ask me about **JavaScript, Python, Django, Node.js, React.js, and MongoDB**
 - 💞️ I’m looking to collaborate on **open-source projects, innovative web apps, and AI-based platforms**
 - 📫 Reach me at:  
-  [📧 abhisheks1135@gmail.com](mailto:abhisheks1135@gmail.com)  
-  [🌐 LinkedIn](https://www.linkedin.com/in/abhijeet113)  
+  [📧 shindeabhijeet113@gmail.com](mailto:shindeabhijeet113@gmail.com)  
+  [🌐 LinkedIn](https://www.linkedin.com/in/abhijeet-shinde-94794725a/)  
   [🐱 GitHub](https://github.com/abhijeet113)
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: *I turn caffeine into code and bugs into features!*
@@ -25,10 +25,23 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![RapidAPI](https://img.shields.io/badge/RapidAPI-000000?style=flat&logo=rapidapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
 
 ---
 
