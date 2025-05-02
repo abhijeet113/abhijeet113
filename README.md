@@ -7,8 +7,8 @@
 - 🎓 3rd Year Computer Engineering student at **VIIT Pune**
 - 💻 Passionate about **Web Development**, **Backend Systems**, and **NLP Applications**
 - 🤝 Actively looking to **collaborate** on impactful open-source projects
-- 📫 Reach me at: **abhisieks1135@gmail.com**
-- 🔗 [LinkedIn](https://www.linkedin.com/in/abhijeetshinde113) • [GitHub](https://github.com/abhijeet113)
+- 📫 Reach me at: **shindeabhijeet113@gmail.com**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/abhijeet-shinde-94794725a/) • [GitHub](https://github.com/abhijeet113)
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I debug for fun and drink code like coffee!
 
