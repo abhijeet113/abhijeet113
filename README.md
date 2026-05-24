@@ -4,7 +4,8 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 3rd Year Computer Engineering student at **VIIT Pune**
+- 💼 Software Developers at **Vcheck Global**
+- 🎓 Computer Engineering at **VIIT Pune**
 - 💻 Passionate about **Web Development**, **Backend Systems**, and **NLP Applications**
 - 🤝 Actively looking to **collaborate** on impactful open-source projects
 - 📫 Reach me at: **shindeabhijeet113@gmail.com**
